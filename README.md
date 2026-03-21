@@ -1,21 +1,21 @@
 # Olá! 👋 Eu sou Joel
 
-Sou estudante de **Ciência da Computação** e aspirante a **Engenheiro de Banco de Dados**. Atualmente, estou focado em melhorar minhas habilidades em desenvolvimento e banco de dados.
+Sou estudante de **Ciência da Computação** e aspirante a **Analista de Dados**. Atualmente, estou focado em melhorar minhas habilidades em desenvolvimento e banco de dados.
 
 ##  Tecnologias e ferramentas:
-- **Linguagens**: Java, Python, SQL.
+- **Linguagens**: Java, Python, SQL, R.
 - **Frameworks**: Spring Boot, Hibernate.
-- **Banco de Dados**: MySQL, PostgreSQL.
+- **Banco de Dados**: MySQL, PostgreSQL, MongoDB.
 - **Outros**: Git, Docker.
 
 
 ##  O que estou aprendendo agora:
-- Desenvolvimento de aplicativos Android conectados a bancos de dados.
+- Estatistica aplicada com python para analise de dados.
 - Planejamento e otimização de consultas SQL.
 
 ## 📂 Meus Projetos:
-- [Aplicativo de Imobiliária](https://github.com/JoeJr09/AplicativoImobiliaria): Um app Android conectado a MySQL.
-- [Sistema de Gestão de Dados](https://github.com/JoeJr09/SistemaGestao): Focado em estruturação e modelagem de banco de dados.
+- [Aplicativo de Banco](https://github.com/LeonardoAtaides/Banco-Malvader): Um Aplicativo Bancario desenvolvido com auxilio de colegas para projeto de faculdade.
+- [Site de prestadores de serviço](https://github.com/JoeJr09/Marktplace-Prestadores-de-Servi-o): Site para a contratação de prestadores de serviços variados (Ainda sendo desenvolvido)
 
 ---
 
