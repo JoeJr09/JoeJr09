@@ -37,20 +37,24 @@ Git • Docker
 
 ##  Projetos em Destaque
 
+###  Processamento de Arquivos CSV
+ https://github.com/JoeJr09/Processamento-de-arquivos-CSV  
+Projeto focado em manipulação e análise de dados a partir de arquivos CSV utilizando Python.  
+**Foco:** ETL, limpeza e preparação de dados.
+
+---
+
+###  Automação de Processos (Python)
+ https://github.com/JoeJr09/automacao_epr  
+Automação de tarefas repetitivas utilizando Python para ganho de produtividade.  
+**Foco:** automação de processos, manipulação de dados e eficiência operacional.
+
+---
+
 ###  Aplicativo Bancário
-🔗 https://github.com/LeonardoAtaides/Banco-Malvader  
-Sistema bancário desenvolvido em grupo com foco em operações financeiras básicas.  
-**Contribuições:** desenvolvimento de funcionalidades e lógica de negócio.
-
----
-
-###  Marketplace de Prestadores de Serviço
-🔗 https://github.com/JoeJr09/Marktplace-Prestadores-de-Servi-o  
-Plataforma para conexão entre clientes e prestadores de serviços.  
-**Status:** Em desenvolvimento  
-**Foco:** back-end, banco de dados e estrutura do sistema.
-
----
+ https://github.com/LeonardoAtaides/Banco-Malvader  
+Sistema bancário desenvolvido em grupo com foco em operações financeiras.  
+**Foco:** lógica de negócio e back-end.
 
 ##  Objetivo
 Busco uma oportunidade de estágio onde eu possa aplicar meus conhecimentos em dados, evoluir tecnicamente e contribuir com soluções reais.
