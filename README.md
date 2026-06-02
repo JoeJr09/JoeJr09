@@ -58,7 +58,9 @@ Sistema bancário desenvolvido em grupo com foco em operações financeiras.
 
 ### Análise Exploratória: Previsão de Readmissão Hospitalar (Diabetes 130-US Hospitals)
  https://github.com/JoeJr09/Trabalho-analise-de-dados-Diabetes-130-US-Hospitals-for-Years-1999-2008
+ 
 O projeto consiste em uma análise de dados ponta a ponta utilizando Python e Pandas para investigar os fatores clínicos e demográficos que levam à readmissão precoce (em menos de 30 dias) de pacientes diabéticos.
+
 **Foco:** ETL, Limpeza de Dados e Analise de dados
 
 
